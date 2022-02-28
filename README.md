@@ -17,12 +17,13 @@ My Skills 📖
 <div>
   <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<!--   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> -->
   <img src="https://badgen.net/badge/icon/git?icon=git&label">  
 </div>
 
+<br />
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f3b745)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=f3b745)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=f3b745)
 
 <br />
