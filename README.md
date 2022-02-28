@@ -21,6 +21,10 @@ My Skills 📖
   <img src="https://badgen.net/badge/icon/git?icon=git&label">  
 </div>
 
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f3b745)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=f3b745)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=f3b745)
+
 <br />
 <h3> You can reach me at 📫 </h3>
 
@@ -38,7 +42,7 @@ My Skills 📖
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=charlyeneh&langs_count=5&theme=buefy)](https://github-readme-stats.vercel.app/api/top-langs/?username=charlyeneh&langs_count=5&theme=buefy)
 
-![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=charlyeneh&)
+![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=charlyeneh)
 
 <br />
 
