@@ -23,7 +23,7 @@ My Skills 📖
 
 <br />
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f3b745)
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=f3b745)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=f3b745)
 
 <br />
