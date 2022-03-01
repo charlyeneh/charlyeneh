@@ -21,12 +21,12 @@ My Skills 📖
   <img src="https://badgen.net/badge/icon/git?icon=git&label">  
 </div>
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![Postgresql Badge](https://img.shields.io/badge/-Postgresql-305d8d?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=305d8d)](#) 
+![](https://img.shields.io/badge/Code-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![](https://img.shields.io/badge/Code-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![](https://img.shields.io/badge/Code-Postgresql-305d8d?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=305d8d)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=color=#61dafb)
-<!-- ![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=NodeJs&logoColor=white&color=#3c873a) -->
+![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=NodeJs&logoColor=white&color=#3c873a)
 
 <br />
 <h3> You can reach me at 📫 </h3>
