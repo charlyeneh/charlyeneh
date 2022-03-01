@@ -14,6 +14,7 @@ About Me 📄
 
 My Skills 📖
 <br />
+
 <div>
   <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -24,7 +25,7 @@ My Skills 📖
 
 ![](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![](https://img.shields.io/badge/Code-Node.js-3c873a?style=for-the-badge&labelColor=black&logo=NodeJs&logoColor=3c873a)
+![](https://img.shields.io/badge/code-NodeJs-3c873a?style=for-the-badge&labelColor=black&logo=NodeJs&logoColor=3c873a)
 ![](https://img.shields.io/badge/Postgresql-305d8d?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=305d8d)
 <!-- ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f3b745) -->
 <!-- ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=color=#61dafb)
