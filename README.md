@@ -47,13 +47,13 @@ My Skills 📖
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=charlyeneh&langs_count=5&theme=buefy)](https://github-readme-stats.vercel.app/api/top-langs/?username=charlyeneh&langs_count=5&theme=buefy)
 
-![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=charlyeneh)
+[![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=charlyeneh)
 
 <br />
 
 ## GitHub Metrics
 
-![GitHub metrics](https://metrics.lecoq.io/charlyeneh)
+[![GitHub metrics](https://metrics.lecoq.io/charlyeneh)
 
 [![Charles' github activity graph](https://activity-graph.herokuapp.com/graph?username=charlyeneh&theme=dracula)](https://github.com/charlyeneh/github-readme-activity-graph)
 
