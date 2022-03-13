@@ -51,15 +51,6 @@ My Skills 📖
 
 <br />
 
-## GitHub Metrics
-
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=charlyeneh&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
-
-[![Charles' github activity graph](https://activity-graph.herokuapp.com/graph?username=charlyeneh&theme=dracula)](https://github.com/charlyeneh/github-readme-activity-graph)
-
-<br/>
-
-
 **Thanks for Stopping by and visiting!! 😊**
 
 <p align="center">
